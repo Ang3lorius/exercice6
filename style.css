@@ -30,7 +30,7 @@
     display: flex;
     flex-wrap: wrap;
     height: 80px;
-    width: 40%;
+    width: 33%;
 }
 
 /*bloc avec les 5 rectangles*/
@@ -89,7 +89,7 @@
 
 #darkorange {
     background-color: #d35400;
-    width: 33%;
+    width: 34%;
     height: 40px;
 }
 
